@@ -3,7 +3,6 @@ Automatic Number Plate Recognition (ANPR) Using YOLOv8 and easyOCR
 
 ![image](https://github.com/AarohiSingla/Automatic-Number-Plate-Recognition--ANPR-/assets/60029146/f9e79b40-b887-4804-85c3-380dbda7a2a7)
 
-YOutube Video link: https://www.youtube.com/watch?v=1qVxaK1V074
 
 
 
@@ -11,9 +10,9 @@ YOutube Video link: https://www.youtube.com/watch?v=1qVxaK1V074
 
 !pip install easyocr
 
-!git clone https://github.com/AarohiSingla/Automatic-Number-Plate-Recognition--ANPR-.git
+!git clone https://github.com/shivam141998/ANPR-Webinar.git
 
-cd Automatic-Number-Plate-Recognition--ANPR--main
+cd ANPR-Webinar
 
 
 #### To train your model on License plate detection:
