@@ -1,0 +1,6 @@
+train: D:/ANPR Webinar/dataset/train/images
+val: D:/ANPR Webinar/dataset/valid/images
+test: D:/ANPR Webinar/dataset/test/images
+
+nc: 1
+names: ['license']
